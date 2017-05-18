@@ -1,1 +1,1 @@
-Ciao, mi chiamo cattaneo alex e saro' il tuo nuovo amico!
+I client di modifica orario e di inserisci orario sono uguali in quanto per entrambi i dati verrano letti da un file csv contenente l'orario
